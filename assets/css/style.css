@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 :root {
-  --white: #fff;
+  --white: hwb(0 100% 0%);
   --custom-blue: #010e1b;
   --custom-green: #12d640;
   --custom-gray: #dee2e6;
